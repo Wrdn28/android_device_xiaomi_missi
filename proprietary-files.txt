@@ -3735,3 +3735,4 @@ vendor/build_rock.prop
 vendor/build_rock_p.prop
 vendor/build_stone_p.prop
 vendor/libnfc-nxp_RF.conf
+system/lib64/libmtk_vt_service.so
